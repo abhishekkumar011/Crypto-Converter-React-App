@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Crypto-Converter-React-App/static/css/main.0afe3d07.css",
+    "main.js": "/Crypto-Converter-React-App/static/js/main.22dfd011.js",
+    "index.html": "/Crypto-Converter-React-App/index.html",
+    "main.0afe3d07.css.map": "/Crypto-Converter-React-App/static/css/main.0afe3d07.css.map",
+    "main.22dfd011.js.map": "/Crypto-Converter-React-App/static/js/main.22dfd011.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0afe3d07.css",
+    "static/js/main.22dfd011.js"
+  ]
+}
